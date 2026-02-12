@@ -38,22 +38,22 @@ User Request → ALB → Target Group → Auto Scaling EC2 Instances
 ## 📸 Screenshots
 
 ### Final Output
-![Final Output](screenshots/final-output.png)
+![Final Output](Final-output.png)
 
 ### Auto Scaling Group Instances
-![ASG Instances](screenshots/asg-instances.png)
+![ASG Instances](asg-instances.png)
 
 ### Application Load Balancer Active
-![ALB Active](screenshots/alb-active.png)
+![ALB Active](alb-active.png)
 
 ### Target Group Healthy Targets
-![Target Group](screenshots/target-group-healthy.png)
+![Target Group](target-group-healthy.png)
 
 ### Custom AMI Created
-![Custom AMI](screenshots/custom-ami.png)
+![Custom AMI](custom-ami.png)
 
 ### Scaling Activity
-![Scaling Activity](screenshots/asg-activity-scaling.png)
+![Scaling Activity](asg-activity-scaling.png)
 
 ---
 
@@ -73,3 +73,4 @@ This project is a real-world example of hosting scalable applications on AWS usi
 It is a strong beginner DevOps/Cloud project that demonstrates core AWS infrastructure skills.
 
 ---
+
